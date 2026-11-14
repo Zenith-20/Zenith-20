@@ -1,4 +1,4 @@
-Hi , I am Zenith20 , an enthusiastic web developer 
+Hi , I am Zenith20 , an enthusiastic developer 
 
 <!---
 Zenith-20/Zenith-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
